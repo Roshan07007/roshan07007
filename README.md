@@ -4,7 +4,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=roshan07007" alt="roshan07007" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">  </p>
 
 <p align="left"> <a href="https://twitter.com/roshan_malviy0" target="blank"><img src="https://img.shields.io/twitter/follow/roshan_malviy0?logo=twitter&style=for-the-badge" alt="roshan_malviy0" /></a> </p>
 
