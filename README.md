@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my Social Account available at [https://linktr.ee/roshanmalviya](https://linktr.ee/roshanmalviya)
 
-- 📫 How to reach me **roshan07malviya07@gmail.com**
+- 📫 How to reach me  <a href="mailto:roshan07malviya07@gmail.com">roshan07malviya07@gmail.com</a>
 
 - ⚡ Fun fact **I am Funny😁**
 
